@@ -1,0 +1,11 @@
+.DS_Store
+*.icloud
+*.swp
+*.o
+*.dSYM
+*.out
+.mypy_cache
+__pycache__
+*.pyc
+*.class
+META-INF
